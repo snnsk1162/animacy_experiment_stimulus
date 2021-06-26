@@ -1,2 +1,2 @@
-# animacy_experiment_stimulus
+# アニマシー実験刺激プログラム
 卒論/アニマシー実験刺激/2021
